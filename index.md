@@ -18,8 +18,8 @@ Finally we will create a interface that will enable anybody to set up an AR camp
 
 ### Team
 
-Anders Evjen - anders.evjen@purpl.no
-Magnus Tviberg - magnus.tviberg@purpl.no
+- Anders Evjen - anders.evjen@purpl.no
+- Magnus Tviberg - magnus.tviberg@purpl.no
 
 ### Stream
 
