@@ -22,7 +22,7 @@
             {%- assign my_page = site.pages | where: "path", path | first -%}
             {%- if my_page.title && my_page.path != "index.md" -%}
             <a class="page-link" href="{{ my_page.url | relative_url }}">{{ my_page.title | escape }}</a>
-            <pre>{{ my_page || json }}"</pre>
+            <pre>{{ my_page.path != "index.md" }}"</pre>
             {%- endif -%}
           {%- endfor -%}
           <a class="page-link" target="_blank" href="https://www.twitch.tv/purplteam">Twitch</a>
