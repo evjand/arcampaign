@@ -6,7 +6,7 @@ This page will hopefully give you a brief introduction to the project.
 
 ### SDK
 
-We will create and provide an SDK for iOS and Android* apps, that makes it incredible easy to set up and integrate with the rest of this service.
+We will create and provide an SDK for iOS and Android\* apps, that makes it incredible easy to set up and integrate with the rest of this service.
 
 ### Standalone app
 
