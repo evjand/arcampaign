@@ -1,37 +1,30 @@
-## Welcome to GitHub Pages
+## AR Campaign
 
-You can use the [editor on GitHub](https://github.com/evjand/arcampaign-pages/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+AR Campaign is a project that aims to simplify the way people use Augmented Reality (AR) content in their marketing.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+This page will hopefully give you a brief introduction to the project.
 
-### Markdown
+### SDK
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+We will create and provide an SDK for iOS and Android* apps, that makes it incredible easy to set up and integrate with the rest of this service.
 
-```markdown
-Syntax highlighted code block
+### Standalone app
 
-# Header 1
-## Header 2
-### Header 3
+We will also build a standalone app, which purpose is to give everyone without their own app a opportunity to use AR content in their marketing. You can use this app to view the content for all public campaigns in your vicinity.
 
-- Bulleted
-- List
+### Console and documentation
 
-1. Numbered
-2. List
+Finally we will create a interface that will enable anybody to set up an AR campaign within minutes, and we will create documentation on how everything from setting up campaings in the dashboard to integrating with the SDK. We'll have lots of best practices and guidelines, as well as graphics that you can use in your marketing to show that this campaign has additional content in AR.
 
-**Bold** and _Italic_ and `Code` text
+### Team
 
-[Link](url) and ![Image](src)
-```
+Anders Evjen - anders.evjen@purpl.no
+Magnus Tviberg - magnus.tviberg@purpl.no
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+### Stream
 
-### Jekyll Themes
+We will be streaming a lot of the development live on Twitch. Please visit [our Twitch channel](https://www.twitch.tv/purplteam) for more info about schedules etc.
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/evjand/arcampaign-pages/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+### Contact
 
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+If you have any questions, feedback or just want to get in touch, please visit our [discord](https://discordapp.com/invite/vjWAPvC) or our [website](https://purpl.no/en/).
